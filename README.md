@@ -4,12 +4,14 @@ Scrum is a framework used to manage and complete complex project.
 
 It follows agile method..
 
-SCRUM ROLES -- 1.Product owner(po)
+SCRUM ROLES -- 
+
+1.Product owner(po)
                  *decides what to build.
                  *manages product Backlogs.
                  *Sets Priorities.
                 2.Scrum Master
-                 *removes blockers.
+                 removes blockers.
                  *supports team.
                 3.Development Team
                   *Developers
